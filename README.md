@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Blockchain Development, FrontEnd Development, Data Structures and Algorithms.**
 
-- 📫 How to reach me **nayanpurwar90business@gmail.com**
+- 📫 How to reach me **yashpurwar.251198@gmail.com**, **nayan251198@gmail.com**
 
-- 😅 Fun Fact:-   **I absolutely love hitting the road with the windows down, the engine purring, and the music blasting. It's like my own  personal concert on wheels!"**
+- 😅 Interesting Factoid:-   **I absolutely love hitting the road with the windows down, the engine purring, and the music blasting. It's like my own  personal concert on wheels!"**
 
 ## How to reach me? 🤙
 
@@ -31,10 +31,7 @@
 ### Designing (Hobby)
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-purwar2004&theme=vue"/>
-</p>
+
 
 ## 📟 GitHub Stats
 <p align="center">
