@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Blockchain Development, FrontEnd Development, Data Structures and Algorithms.**
+- 💬 Ask me about **Backend Development, FrontEnd Development, Data Structures and Algorithms.**
 
-- 📫 How to reach me **yashpurwar.251198@gmail.com**, **nayan251198@gmail.com**
+- 📫 How to reach me **yashpurwar.251198@gmail.com**
 
 - 😅 Interesting Factoid:-   **I absolutely love hitting the road with the windows down, the engine purring, and the music blasting. It's like my own  personal concert on wheels!"**
 
@@ -17,13 +17,13 @@
 
 ## Technologies and Tools 👨‍💻
 ### Languages
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Static Badge" src="https://img.shields.io/badge/TailWindCSS-blue?style=for-the-badge&logo=TailwindCss"> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 ### Backend
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="springboot" src="https://img.shields.io/badge/Spring-Boot?style=for-the-badge&logo=spring&logoColor=white&logoSize=auto"/>
 
 ### Databases
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
