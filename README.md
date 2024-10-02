@@ -31,7 +31,7 @@
 ### Designing (Hobby)
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
-
+[![](https://visitcount.itsvg.in/api?id=yashpurwar2004&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## 📟 GitHub Stats
 <p align="center">
