@@ -1,6 +1,6 @@
 <h1 align="center">Hola Devs 👋, I'm Yash Purwar</h1>
 
- I'm a back-end developer and a hobbyist UI/UX designer. Back-end engineering is something I love the most and want to build a career out of it. These days, I'm strengthening my back-end skills and learning front-end frameworks.
+ I'm a back-end developer. Back-end engineering is something I love the most and want to build a career out of it. These days, I'm strengthening my back-end skills and learning front-end frameworks.
 ## 💫 About Me :
 
 - 🌱 I’m currently learning **Web Development**
