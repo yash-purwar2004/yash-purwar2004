@@ -25,6 +25,9 @@
 ### Backend
 <img alt="springboot" src="https://img.shields.io/badge/Spring-Boot?style=for-the-badge&logo=spring&logoColor=white&logoSize=auto"/>
 
+### Cloud Services
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### Databases
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
